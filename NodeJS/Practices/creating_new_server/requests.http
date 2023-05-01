@@ -1,0 +1,19 @@
+###
+POST http://localhost:8080/api/users HTTP/1.1
+Content-Type: application/json
+
+{
+"name": "Posteo",
+"age": 21,
+"email":"Posteo@gmail.com"
+}
+
+###
+POST http://localhost:9000/api/data HTTP/1.1
+Content-Type: application/json
+
+{
+"name": "Datos",
+"age": 31,
+"email":"Minutos@gmail.com"
+}

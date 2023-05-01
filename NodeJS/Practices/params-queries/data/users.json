@@ -1,43 +1,51 @@
 [
- {
-  "name": "Andy",
-  "last_name": "Dresito",
-  "age": 23,
-  "carts": [],
-  "id": 1
-},
-{
-  "name": "Andy",
-  "last_name": "Dresito",
-  "age": 23,
-  "carts": [],
-  "id": 2
-},
-{
- "name": "Andy",
- "last_name": "Dresito",
- "age": 23,
- "carts": [],
- "id": 3
-},
-{
- "name": "Andy",
- "last_name": "Dresito",
- "age": 23,
- "carts": [],
- "id": 4
-}, {
- "name": "Andy",
- "last_name": "Dresito",
- "age": 23,
- "carts": [],
- "id": 5
-},
-{
- "name": "Andy",
- "last_name": "Dresito",
- "age": 23,
- "carts": [],
- "id": 6
-}
+  {
+    "name": "Andy",
+    "last_name": "Dresito",
+    "age": 23,
+    "carts": [],
+    "id": 1
+  },
+  {
+    "name": "Andy",
+    "last_name": "Dresito",
+    "age": 23,
+    "carts": [],
+    "id": 2
+  },
+  {
+    "name": "Andy",
+    "last_name": "Dresito",
+    "age": 23,
+    "carts": [],
+    "id": 3
+  },
+  {
+    "name": "Andy",
+    "last_name": "Dresito",
+    "age": 23,
+    "carts": [],
+    "id": 4
+  },
+  {
+    "name": "Andy",
+    "last_name": "Dresito",
+    "age": 23,
+    "carts": [],
+    "id": 5
+  },
+  {
+    "name": "Andy",
+    "last_name": "Dresito",
+    "age": 23,
+    "carts": [],
+    "id": 6
+  },
+  {
+    "name": "Andy",
+    "last_name": "Dresito",
+    "age": 23,
+    "carts": [],
+    "id": 1
+  }
 ]
