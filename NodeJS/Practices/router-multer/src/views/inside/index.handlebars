@@ -1,0 +1,20 @@
+<div>Esta es mi pagina de inicio</div>
+
+{{#if last_name}}
+<h2>{{last_name}}</h2>
+{{else}}
+<h2>There is no last name</h2>
+{{/if}}
+
+{{#each nombres}}
+
+<div class="card" style="width: 18rem;">
+  <img class="card-img-top" src={{this.photo}} alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">{{this.name}}</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.
+    </p>
+    <span href="" class="btn btn-primary emit_data">Emit data</span>
+  </div>
+</div>
+{{/each}}

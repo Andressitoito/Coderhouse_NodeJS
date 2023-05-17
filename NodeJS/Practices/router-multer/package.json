@@ -3,14 +3,20 @@
   "version": "1.0.0",
   "description": "",
   "main": "creating_new_server.js",
+  "type": "module",
   "scripts": {
     "start": "node ./creating_new_server.js",
-    "dev" : "nodemon creating_new_server.js",
+    "dev": "nodemon creating_new_server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.29.4"
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "handlebars": "^4.7.7",
+    "moment": "^2.29.4",
+    "multer": "^1.4.5-lts.1",
+    "socket.io": "^4.6.1"
   }
 }
